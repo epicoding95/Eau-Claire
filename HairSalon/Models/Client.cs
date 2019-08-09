@@ -8,9 +8,9 @@ namespace HairSalon.Models
         {
             this.Stylists = new HashSet<Stylist>();
         }
-         public int StylistId {get; set;} 
-         public string Name {get; set;}
-        public string Details{ get; set;}
-        public virtual ICollection<Stylist> Stylists {get; set;}
+        public int ClientId { get; set; }
+        public string Name { get; set; }
+        public string Details { get; set; }
+        public virtual ICollection<Stylist> Stylists { get; set; }
     }
 }

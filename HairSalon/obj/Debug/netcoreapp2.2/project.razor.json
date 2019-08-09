@@ -2963,11 +2963,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Stylist/Delete.cshtml",
-      "TargetPath": "Views/Stylist/Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "Views/Stylist/Details.cshtml",
       "TargetPath": "Views/Stylist/Details.cshtml",
       "FileKind": "mvc"
