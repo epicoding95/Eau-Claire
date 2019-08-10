@@ -2943,28 +2943,18 @@
   "RootNamespace": "Eau",
   "Documents": [
     {
-      "FilePath": "Views/Stylist/Create.cshtml",
-      "TargetPath": "Views/Stylist/Create.cshtml",
+      "FilePath": "Views/Stylists/Details.cshtml",
+      "TargetPath": "Views/Stylists/Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Stylist/Edit.cshtml",
-      "TargetPath": "Views/Stylist/Edit.cshtml",
+      "FilePath": "Views/Stylists/Create.cshtml",
+      "TargetPath": "Views/Stylists/Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Stylist/Index.cshtml",
-      "TargetPath": "Views/Stylist/Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views/Clients/Delete.cshtml",
-      "TargetPath": "Views/Clients/Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "Views/Stylist/Details.cshtml",
-      "TargetPath": "Views/Stylist/Details.cshtml",
+      "FilePath": "Views/Stylists/Edit.cshtml",
+      "TargetPath": "Views/Stylists/Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2995,6 +2985,11 @@
     {
       "FilePath": "Views/Shared/_Layout.cshtml",
       "TargetPath": "Views/Shared/_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Stylists/Index.cshtml",
+      "TargetPath": "Views/Stylists/Index.cshtml",
       "FileKind": "mvc"
     }
   ],

@@ -22,7 +22,12 @@
 /Users/Guest/Desktop/Eau-Claire/HairSalon/obj/Debug/netcoreapp2.2/Eau.RazorTargetAssemblyInfo.cs
 /Users/Guest/Desktop/Eau-Claire/HairSalon/obj/Debug/netcoreapp2.2/Eau.dll
 /Users/Guest/Desktop/Eau-Claire/HairSalon/obj/Debug/netcoreapp2.2/Eau.pdb
-/Users/Guest/Desktop/Eau-Claire/HairSalon/obj/Debug/netcoreapp2.2/Razor/Views/Stylist/Create.g.cshtml.cs
-/Users/Guest/Desktop/Eau-Claire/HairSalon/obj/Debug/netcoreapp2.2/Razor/Views/Stylist/Details.g.cshtml.cs
-/Users/Guest/Desktop/Eau-Claire/HairSalon/obj/Debug/netcoreapp2.2/Razor/Views/Stylist/Edit.g.cshtml.cs
-/Users/Guest/Desktop/Eau-Claire/HairSalon/obj/Debug/netcoreapp2.2/Razor/Views/Stylist/Index.g.cshtml.cs
+/Users/Guest/Desktop/Eau-Claire/HairSalon/bin/Debug/netcoreapp2.2/Eau.deps.json
+/Users/Guest/Desktop/Eau-Claire/HairSalon/bin/Debug/netcoreapp2.2/Eau.runtimeconfig.json
+/Users/Guest/Desktop/Eau-Claire/HairSalon/bin/Debug/netcoreapp2.2/Eau.runtimeconfig.dev.json
+/Users/Guest/Desktop/Eau-Claire/HairSalon/bin/Debug/netcoreapp2.2/Eau.dll
+/Users/Guest/Desktop/Eau-Claire/HairSalon/bin/Debug/netcoreapp2.2/Eau.pdb
+/Users/Guest/Desktop/Eau-Claire/HairSalon/bin/Debug/netcoreapp2.2/Eau.Views.dll
+/Users/Guest/Desktop/Eau-Claire/HairSalon/bin/Debug/netcoreapp2.2/Eau.Views.pdb
+/Users/Guest/Desktop/Eau-Claire/HairSalon/obj/Debug/netcoreapp2.2/Eau.Views.pdb
+/Users/Guest/Desktop/Eau-Claire/HairSalon/obj/Debug/netcoreapp2.2/Eau.csproj.CopyComplete
