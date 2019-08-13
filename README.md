@@ -11,6 +11,11 @@
 
 | Spec |
 | :-------------     |
+| **CREATE DATABASE first_last;** |
+| **USE first_last;** |
+| **CREATE TABLE  Clients (ClientId PRIMARY KEY, Name VARCHAR(255), StylistId INT(11);** |
+| **CREATE TABLE Stylists (StylistId PRIMARY KEY, Name VARCHAR(255));** |
+| -----------------------------------------------------------     |
 | **Add to the list of employees that work at Eau-Claire's Salon** |
 | **Add to the list of clients that each Employee has** |
 | **Each Client can only be designated to one employee** |
