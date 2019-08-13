@@ -8,7 +8,6 @@
 /Users/Guest/Desktop/Eau-Claire/HairSalon/obj/Debug/netcoreapp2.2/Eau.TagHelpers.output.cache
 /Users/Guest/Desktop/Eau-Claire/HairSalon/obj/Debug/netcoreapp2.2/Eau.RazorCoreGenerate.cache
 /Users/Guest/Desktop/Eau-Claire/HairSalon/obj/Debug/netcoreapp2.2/Razor/Views/Clients/Create.g.cshtml.cs
-/Users/Guest/Desktop/Eau-Claire/HairSalon/obj/Debug/netcoreapp2.2/Razor/Views/Clients/Delete.g.cshtml.cs
 /Users/Guest/Desktop/Eau-Claire/HairSalon/obj/Debug/netcoreapp2.2/Razor/Views/Clients/Details.g.cshtml.cs
 /Users/Guest/Desktop/Eau-Claire/HairSalon/obj/Debug/netcoreapp2.2/Razor/Views/Clients/Edit.g.cshtml.cs
 /Users/Guest/Desktop/Eau-Claire/HairSalon/obj/Debug/netcoreapp2.2/Razor/Views/Clients/Index.g.cshtml.cs
