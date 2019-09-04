@@ -2,7 +2,7 @@
 # Eau-Claire's Hair Salon
 
 
-![download](https://user-images.githubusercontent.com/49597486/63200690-04562700-c037-11e9-9f54-af024c595806.png)
+
 
 ## an application that allows you to add to the list of employees and each of their clients.
 
